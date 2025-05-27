@@ -97,7 +97,7 @@ Bienvenido a mi índice de repositorios donde encontrarás los ejercicios realiz
   Ejercicio con MongoDB Atlas y Mongoose para conexión y CRUD básico.
 
 - **[Sprint13_Challenge2.2_ejercico-CRUD-DB-mongoose](https://github.com/jrdavicilio/Sprint13_Challenge2.2_ejercico-CRUD-DB-mongoose)**
-  CRUD utilizando MongoDB y Mongoose.
+CRUD utilizando MongoDB y Mongoose.
 
 - **[Sprint13_Challenge3_team-challenge-mongoose-testing](https://github.com/jrdavicilio/Sprint13_Challenge3_team-challenge-mongoose-testing)**  
   Proyecto en equipo con pruebas y base de datos MongoDB.
